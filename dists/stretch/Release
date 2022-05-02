@@ -1,0 +1,19 @@
+Origin: gregory.beer APT Repo
+Label: gregory.beer APT Repo
+Codename: stretch
+Date: Mon, 02 May 2022 17:25:27 UTC
+Architectures: arm64
+Components: utils
+Description: gregory.beer APT Repo
+MD5Sum:
+ 472ca997c2c0af98eaee2aa559a28261 762 utils/binary-arm64/Packages
+ bbc049fa33d42050375d365646d75d4e 526 utils/binary-arm64/Packages.gz
+ 93fe86b3882a3fb9b99eeca79b872f6a 131 utils/binary-arm64/Release
+SHA1:
+ 6164c6716cfbb1d0943825c0d0da845895d47834 762 utils/binary-arm64/Packages
+ a0b758b689532ff05bbdf934907fb18a056c696c 526 utils/binary-arm64/Packages.gz
+ 3be13f788fe50dffedea9187da902c4dfa22700c 131 utils/binary-arm64/Release
+SHA256:
+ 850fcad2426737c1a531b35d960881233515e872f072c5f73533a30dc24eb089 762 utils/binary-arm64/Packages
+ ca4a0cc66b3c2850fe195b9565df43e8326b0d07cd79c83b059aa22719cb4667 526 utils/binary-arm64/Packages.gz
+ 2300e3a41c8ae37b7f1c31db8d715c2438fe57352d09adf5f2be7080e991a50b 131 utils/binary-arm64/Release

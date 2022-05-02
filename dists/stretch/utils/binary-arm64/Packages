@@ -1,0 +1,20 @@
+Package: udm-local-dns
+Version: 0.0.2-2
+Architecture: arm64
+Maintainer: Man Gregory <man.gregory@gmail.com>
+Installed-Size: 3922
+Depends: libc6 (>= 2.17)
+Built-Using: golang-1.10 (= 1.10.4-2ubuntu1~18.04.2), golang-toml (= 0.3.0+git20170626.7.a368813-1)
+Homepage: https://github.com/gregory-m/udm-local-dns
+Priority: optional
+Section: utils
+Filename: pool/utils/u/udm-local-dns/udm-local-dns_0.0.2-2_arm64.deb
+Size: 1536714
+SHA256: 613adeb5f555268b28c2d7efd13e8435dd424a18fe49af91604d9e8cebed08ef
+SHA1: 05b172bc2213e3b5585cf318a97bc035e4e16a16
+MD5sum: 7944dff09db7d3fbdab6b0351971f8ce
+Description: generates DNS entries for client devices.
+  udm-local-dns polls Network controller API
+  and generates new dnsmasq configuration
+  if network client list changes.
+

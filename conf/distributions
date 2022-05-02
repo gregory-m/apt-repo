@@ -1,0 +1,7 @@
+Origin: gregory.beer APT Repo
+Label: gregory.beer APT Repo
+Codename: stretch
+Architectures: arm64
+Components: utils
+Description: gregory.beer APT Repo
+SignWith: BA6530E8C502055294C7F89D0F4FA378B7E9496A
