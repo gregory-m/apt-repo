@@ -9,7 +9,7 @@ SignWith: BA6530E8C502055294C7F89D0F4FA378B7E9496A
 Origin: gregory.beer APT Repo for Raspbian
 Label: gregory.beer APT Repo for Raspbian
 Codename: bullseye
-Architectures: arm64
+Architectures: armhf arm64
 Components: utils
 Description: Raspbian gregory.beer APT Repo
 SignWith: BA6530E8C502055294C7F89D0F4FA378B7E9496A
