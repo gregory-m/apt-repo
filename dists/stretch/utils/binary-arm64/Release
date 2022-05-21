@@ -1,5 +1,5 @@
 Component: utils
-Origin: gregory.beer APT Repo
-Label: gregory.beer APT Repo
+Origin: gregory.beer APT Repo for Unifi OS
+Label: gregory.beer APT Repo for Unifi OS
 Architecture: arm64
-Description: gregory.beer APT Repo
+Description: Unifi OS gregory.beer APT Repo

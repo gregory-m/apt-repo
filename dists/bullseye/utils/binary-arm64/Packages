@@ -1,0 +1,16 @@
+Package: pi-stats
+Version: 0.2
+Architecture: arm64
+Maintainer: Gregory Man <man.gregory@gmail.com>
+Installed-Size: 42
+Depends: libc6 (>= 2.17)
+Homepage: <insert the upstream URL, if relevant>
+Priority: optional
+Section: unknown
+Filename: pool/utils/p/pi-stats/pi-stats_0.2_arm64.deb
+Size: 9976
+SHA256: cc042f6495e0e4876da8f3f6fdd7ba31685acac1c48c677129a7ab26c64c6f4b
+SHA1: a45c8c691cf0a9f7a5373f3500f3e5e5395e17ce
+MD5sum: 91b8ec0a1d818f8451504a7bb8e221f1
+Description: Pi Rack (U6143) OLED display service
+

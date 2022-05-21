@@ -1,0 +1,29 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: gregory.beer APT Repo for Raspbian
+Label: gregory.beer APT Repo for Raspbian
+Codename: bullseye
+Date: Sat, 21 May 2022 15:10:00 UTC
+Architectures: arm64
+Components: utils
+Description: Raspbian gregory.beer APT Repo
+MD5Sum:
+ 01a1ccb7dcc564544fbf36a6214ccb39 506 utils/binary-arm64/Packages
+ acc3679f0afed918d4a47b5f1bb26477 395 utils/binary-arm64/Packages.gz
+ b0011b081de23bc78054da975737bfe7 166 utils/binary-arm64/Release
+SHA1:
+ 25f5038d8c99f61f41197b346fa29c70904dfe37 506 utils/binary-arm64/Packages
+ 3d2bceab07ed9f2dda192933481968bbf9c30cf9 395 utils/binary-arm64/Packages.gz
+ 8fde4e4da822db01c864acec51c62a7e8728db6a 166 utils/binary-arm64/Release
+SHA256:
+ 68af1a2cbeed5682a3dd2b9e512c7e27d8521b240ec61a4e739ff41fae215605 506 utils/binary-arm64/Packages
+ 8b92c2948e8543ed441b564a02edab1cadb37fa7370aab2e34e6e71d038ae746 395 utils/binary-arm64/Packages.gz
+ 07605a534aa0e9a2f8fe7c6315bb1bf4e8cc669f173b54c8569a6244bbf9d4a3 166 utils/binary-arm64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYKAB0WIQQjaFhbDnEZDAjsnx6XBLVs3YyIEgUCYokAyAAKCRCXBLVs3YyI
+EssqAP95ejdxLslTt8AgIjy0ptnbBXCI9t4f4aLWB/pEUsleQgD/UNTvD1t1ZKBa
+yopq/NR2UGxZg96Bzjk6pxmPNLtPyA4=
+=ejER
+-----END PGP SIGNATURE-----
