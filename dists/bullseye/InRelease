@@ -4,7 +4,7 @@ Hash: SHA512
 Origin: gregory.beer APT Repo for Raspbian
 Label: gregory.beer APT Repo for Raspbian
 Codename: bullseye
-Date: Sat, 21 May 2022 15:37:17 UTC
+Date: Sat, 21 May 2022 15:53:46 UTC
 Architectures: armhf arm64
 Components: utils
 Description: Raspbian gregory.beer APT Repo
@@ -12,27 +12,27 @@ MD5Sum:
  d41d8cd98f00b204e9800998ecf8427e 0 utils/binary-armhf/Packages
  16db6212ae61a24b1a9921bdd7c58c1f 20 utils/binary-armhf/Packages.gz
  d920d94b0f3cb7fe89240e3b7bb0274f 166 utils/binary-armhf/Release
- d41d8cd98f00b204e9800998ecf8427e 0 utils/binary-arm64/Packages
- 16db6212ae61a24b1a9921bdd7c58c1f 20 utils/binary-arm64/Packages.gz
+ 01a1ccb7dcc564544fbf36a6214ccb39 506 utils/binary-arm64/Packages
+ acc3679f0afed918d4a47b5f1bb26477 395 utils/binary-arm64/Packages.gz
  b0011b081de23bc78054da975737bfe7 166 utils/binary-arm64/Release
 SHA1:
  da39a3ee5e6b4b0d3255bfef95601890afd80709 0 utils/binary-armhf/Packages
  b9693a53bcffe40b2cc2c37045561f848baaa22a 20 utils/binary-armhf/Packages.gz
  d8fb6054981bd86c6f905fe280cc34482ac4276c 166 utils/binary-armhf/Release
- da39a3ee5e6b4b0d3255bfef95601890afd80709 0 utils/binary-arm64/Packages
- b9693a53bcffe40b2cc2c37045561f848baaa22a 20 utils/binary-arm64/Packages.gz
+ 25f5038d8c99f61f41197b346fa29c70904dfe37 506 utils/binary-arm64/Packages
+ 3d2bceab07ed9f2dda192933481968bbf9c30cf9 395 utils/binary-arm64/Packages.gz
  8fde4e4da822db01c864acec51c62a7e8728db6a 166 utils/binary-arm64/Release
 SHA256:
  e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 utils/binary-armhf/Packages
  abfbb86f9f5ddfbd9fc1a72c43ab384702ce8bae86b60f3324748485e235e61e 20 utils/binary-armhf/Packages.gz
  4ad97e1a19cb7cbc3abd03df43a1fcf3107ec5ec0753d8addb38a346928615c8 166 utils/binary-armhf/Release
- e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855 0 utils/binary-arm64/Packages
- abfbb86f9f5ddfbd9fc1a72c43ab384702ce8bae86b60f3324748485e235e61e 20 utils/binary-arm64/Packages.gz
+ 68af1a2cbeed5682a3dd2b9e512c7e27d8521b240ec61a4e739ff41fae215605 506 utils/binary-arm64/Packages
+ 8b92c2948e8543ed441b564a02edab1cadb37fa7370aab2e34e6e71d038ae746 395 utils/binary-arm64/Packages.gz
  07605a534aa0e9a2f8fe7c6315bb1bf4e8cc669f173b54c8569a6244bbf9d4a3 166 utils/binary-arm64/Release
 -----BEGIN PGP SIGNATURE-----
 
-iHUEARYKAB0WIQQjaFhbDnEZDAjsnx6XBLVs3YyIEgUCYokHLQAKCRCXBLVs3YyI
-EqckAQCtSxDC8hUbnFHt6BQLJZrRE3vqmoBCuCy+IrFl7EWl2AD9Flqbnwn4JuOS
-wszBX8CBI23jBC7Pb/kpN1o1dAXopgQ=
-=vlUv
+iHUEARYKAB0WIQQjaFhbDnEZDAjsnx6XBLVs3YyIEgUCYokLDgAKCRCXBLVs3YyI
+EraLAP0Un7oe7zr8QLAXxbA3UFaXHAF6qnp4MsawFHJsdL50rwD/Xax+ktKNMQ94
+Ir1tlyIxl/nj3V4uiBWMLPczR1Kvjgw=
+=CyE6
 -----END PGP SIGNATURE-----
